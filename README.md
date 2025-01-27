@@ -14,3 +14,16 @@ GitHub地址: https://github.com/fsnotify/fsnotify
 ### 📦 安装
 ```bash
 go get github.com/fsnotify/fsnotify
+```
+
+## 📅 2025-01-27 - cron
+
+### 📖 库介绍
+`cron` 是一个功能强大的定时任务调度库，支持标准cron表达式（支持秒级精度），提供灵活的定时任务管理功能。
+
+GitHub地址: https://github.com/robfig/cron
+
+### 📦 安装
+```bash
+go get github.com/robfig/cron/v3
+```
