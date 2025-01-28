@@ -27,3 +27,15 @@ GitHub地址: https://github.com/robfig/cron
 ```bash
 go get github.com/robfig/cron/v3
 ```
+
+## 📅 2025-01-28 - carbon
+
+### 📖 库介绍
+`carbon` 是一个强大易用的时间处理库，提供链式调用、时区支持、时间计算等丰富功能，是替代标准库time的绝佳选择。
+
+GitHub地址: https://github.com/dromara/carbon
+
+### 📦 安装
+```bash
+go get github.com/dromara/carbon/v2
+```
