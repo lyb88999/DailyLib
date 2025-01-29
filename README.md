@@ -39,3 +39,16 @@ GitHub地址: https://github.com/dromara/carbon
 ```bash
 go get github.com/dromara/carbon/v2
 ```
+
+
+## 📅 2025-01-29 - zap
+
+### 📖 库介绍
+`zap` 是Uber开源的超高性能日志库，专为需要高性能日志记录的场景设计，提供结构化日志记录和灵活的配置选项。
+
+GitHub地址: https://github.com/uber-go/zap
+
+### 📦 安装
+```bash
+go get go.uber.org/zap
+```
