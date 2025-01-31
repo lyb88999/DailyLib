@@ -52,3 +52,16 @@ GitHub地址: https://github.com/uber-go/zap
 ```bash
 go get go.uber.org/zap
 ```
+
+
+## 📅 2025-01-30～2025-01-31 - go-cmp
+
+### 📖 库介绍
+`go-cmp` 是Google提供的深度比较库，支持复杂类型的比较和差异定位，比标准库的`reflect.DeepEqual`更灵活安全。
+
+GitHub地址: https://github.com/google/go-cmp
+
+### 📦 安装
+```bash
+go get github.com/google/go-cmp/cmp
+```
