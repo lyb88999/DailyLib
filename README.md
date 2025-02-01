@@ -65,3 +65,16 @@ GitHub地址: https://github.com/google/go-cmp
 ```bash
 go get github.com/google/go-cmp/cmp
 ```
+
+
+## 📅 2025-02-01 - go-zero/service
+
+### 📖 库介绍
+`go-zero/service` 是go-zero框架中的服务管理组件，提供优雅的服务生命周期管理，支持多服务统一启停和信号处理。
+
+GitHub地址: https://github.com/zeromicro/go-zero
+
+### 📦 安装
+```bash
+go get github.com/zeromicro/go-zero/core/service
+```
