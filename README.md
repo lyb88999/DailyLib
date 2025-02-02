@@ -78,3 +78,21 @@ GitHub地址: https://github.com/zeromicro/go-zero
 ```bash
 go get github.com/zeromicro/go-zero/core/service
 ```
+
+# Go每日一库
+
+本项目用于收集Go语言中有用的第三方库使用示例，每日更新一个实用库。
+
+---
+
+## 📅 2025-02-02 - go-sqlmock
+
+### 📖 库介绍
+`go-sqlmock` 是SQL数据库模拟测试库，可以在不依赖真实数据库的情况下进行数据库操作测试，完美兼容标准库database/sql。
+
+GitHub地址: https://github.com/DATA-DOG/go-sqlmock
+
+### 📦 安装
+```bash
+go get github.com/DATA-DOG/go-sqlmock
+```
