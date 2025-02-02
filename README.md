@@ -79,11 +79,6 @@ GitHub地址: https://github.com/zeromicro/go-zero
 go get github.com/zeromicro/go-zero/core/service
 ```
 
-# Go每日一库
-
-本项目用于收集Go语言中有用的第三方库使用示例，每日更新一个实用库。
-
----
 
 ## 📅 2025-02-02 - go-sqlmock
 
