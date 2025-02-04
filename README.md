@@ -91,3 +91,16 @@ GitHub地址: https://github.com/DATA-DOG/go-sqlmock
 ```bash
 go get github.com/DATA-DOG/go-sqlmock
 ```
+
+
+## 📅 2025-02-03～2025-02-04 - zlsgo
+
+### 📖 库介绍
+`zlsgo` 是一个全栈Go开发框架，包含轻量高效的Web框架(znet)和功能强大的HTTP客户端(zhttp)等，提供开箱即用的开发体验。
+
+GitHub地址: https://github.com/sohaha/zlsgo
+
+### 📦 安装
+```bash
+go get github.com/sohaha/zlsgo
+```
