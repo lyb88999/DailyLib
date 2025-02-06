@@ -104,3 +104,16 @@ GitHub地址: https://github.com/sohaha/zlsgo
 ```bash
 go get github.com/sohaha/zlsgo
 ```
+
+
+## 📅 2025-02-06 - cast
+
+### 📖 库介绍
+`cast` 是强大的类型转换库，提供安全便捷的类型转换方法，支持基本类型、集合类型和时间类型的相互转换，内置错误处理机制。
+
+GitHub地址: https://github.com/spf13/cast
+
+### 📦 安装
+```bash
+go get github.com/spf13/cast
+```
