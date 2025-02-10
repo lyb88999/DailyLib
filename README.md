@@ -117,3 +117,34 @@ GitHub地址: https://github.com/spf13/cast
 ```bash
 go get github.com/spf13/cast
 ```
+
+
+## 📅 2025-02-07 - excelize
+
+### 📖 库介绍
+`excelize` 是功能强大的Excel文档操作库，支持读写XLSX/XLSM/XLTM文件、样式设置、公式计算、图表插入等完整Excel功能。
+
+GitHub地址: https://github.com/xuri/excelize
+
+### 📦 安装
+```bash
+go get github.com/xuri/excelize/v2
+```
+
+
+
+## 📅 2025-02-08 - sqlx
+
+### 📖 库介绍
+`sqlx` 是扩展标准库database/sql的增强版SQL工具包，提供更简洁的数据库操作API，支持结构体映射、批量操作和命名参数等高级特性。
+
+GitHub地址: https://github.com/jmoiron/sqlx
+
+### 📦 安装
+```bash
+go get github.com/jmoiron/sqlx
+
+# 根据需要安装数据库驱动（以MySQL为例）
+go get github.com/go-sql-driver/mysql
+```
+
