@@ -148,3 +148,15 @@ go get github.com/jmoiron/sqlx
 go get github.com/go-sql-driver/mysql
 ```
 
+
+## 📅 2025-02-09 - govalidator
+
+### 📖 库介绍
+`govalidator` 是功能强大的数据验证库，提供丰富的验证规则和自定义验证能力，支持结构体字段验证和函数式验证。
+
+GitHub地址: https://github.com/asaskevich/govalidator
+
+### 📦 安装
+```bash
+go get github.com/asaskevich/govalidator
+```
