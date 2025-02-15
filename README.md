@@ -160,3 +160,31 @@ GitHub地址: https://github.com/asaskevich/govalidator
 ```bash
 go get github.com/asaskevich/govalidator
 ```
+
+
+## 📅 2025-02-10 - air
+
+### 📖 库介绍
+`air` 是Go语言的热加载工具，能够在代码修改后自动重新编译和运行程序，极大提升开发效率。
+
+GitHub地址: https://github.com/cosmtrek/air
+
+### 📦 安装
+```bash
+# 使用go安装
+go install github.com/cosmtrek/air@latest
+
+# 使用brew安装（macOS/Linux）
+brew install air
+```
+
+## 📅 2025-02-11 - air
+
+### 📖 库介绍
+`commonregex` 是一个用于提取常见正则表达式模式的Go库，支持从文本中提取日期、时间、URL、电子邮件、电话号码、IP地址、MAC地址等常见格式。
+GitHub地址: https://github.com/mingrammer/commonregex
+
+### 📦 安装
+```bash
+go get github.com/mingrammer/commonregex
+```
