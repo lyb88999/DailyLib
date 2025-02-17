@@ -188,3 +188,26 @@ GitHub地址: https://github.com/mingrammer/commonregex
 ```bash
 go get github.com/mingrammer/commonregex
 ```
+
+## 📅 2025-02-12 - jobrunner
+### 📖 库介绍
+`jobrunner` 是一个轻量级的任务调度库，支持定时任务和延迟任务，能够与Web框架（如Gin）无缝集成，并提供任务状态监控功能。
+
+GitHub地址: https://github.com/bamzi/jobrunner
+
+### 📦 安装
+```bash
+go get github.com/bamzi/jobrunner
+```
+
+
+## 📅 2025-02-13 - EventBus
+
+### 📖 库介绍
+`EventBus` 是一个轻量级的事件总线库，支持事件的发布/订阅模式，能够实现模块间的解耦和异步通信。
+GitHub地址: https://github.com/asaskevich/EventBus
+
+### 📦 安装
+```bash
+go get github.com/asaskevich/EventBus
+```
