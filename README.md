@@ -211,3 +211,14 @@ GitHub地址: https://github.com/asaskevich/EventBus
 ```bash
 go get github.com/asaskevich/EventBus
 ```
+
+## 📅 2025-02-14 - ants
+
+### 📖 库介绍
+`ants` 是高性能的Goroutine池实现，可有效管理大量并发任务，显著降低内存占用和调度开销，适合高并发场景。
+GitHub地址: https://github.com/panjf2000/ants
+
+### 📦 安装
+```bash
+go get github.com/panjf2000/ants/v2
+```
