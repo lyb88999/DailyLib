@@ -222,3 +222,15 @@ GitHub地址: https://github.com/panjf2000/ants
 ```bash
 go get github.com/panjf2000/ants/v2
 ```
+
+
+## 📅 2025-02-15 - casbin
+
+### 📖 库介绍
+`casbin` 是一个强大的访问控制库，支持多种权限模型（如ACL、RBAC、ABAC等），能够轻松集成到各种应用中，提供灵活的权限管理能力。
+
+### 📦 安装
+```bash
+go get github.com/casbin/casbin/v2
+go get github.com/casbin/gorm-adapter/v2
+```

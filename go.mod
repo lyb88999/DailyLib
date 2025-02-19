@@ -7,7 +7,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/dromara/carbon/v2 v2.5.2
 	github.com/fsnotify/fsnotify v1.8.0
-	github.com/go-sql-driver/mysql v1.8.1
+	github.com/go-sql-driver/mysql v1.9.0
 	github.com/google/go-cmp v0.6.0
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/robfig/cron/v3 v3.0.1
@@ -28,8 +28,12 @@ require (
 	github.com/bep/godartsass v1.2.0 // indirect
 	github.com/bep/godartsass/v2 v2.1.0 // indirect
 	github.com/bep/golibsass v1.2.0 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.6.1 // indirect
 	github.com/bytedance/sonic v1.12.8 // indirect
 	github.com/bytedance/sonic/loader v0.2.3 // indirect
+	github.com/casbin/casbin/v2 v2.103.0 // indirect
+	github.com/casbin/gorm-adapter/v2 v2.1.0 // indirect
+	github.com/casbin/govaluate v1.3.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cli/safeexec v1.0.1 // indirect
@@ -51,11 +55,14 @@ require (
 	github.com/gohugoio/hugo v0.134.3 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.20.0 // indirect
+	github.com/jinzhu/gorm v1.9.12 // indirect
+	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
+	github.com/lib/pq v1.10.9 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mingrammer/commonregex v1.0.1 // indirect
